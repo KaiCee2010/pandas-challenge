@@ -12,52 +12,52 @@ This jupyter notebook contains:
 * Most Popular Items
 * Most Profitable Items
 
-## Player Count [Player Count Image](Images/player_count.png)
+## [Player Count](HeroesOfPymoli/Images/player_count.png)
 This dataframe contains the Total Players.
 
-## Purchasing Analysis (Total)
+## [Purchasing Analysis (Total)](HeroesOfPymoli/Images/purchasinganalysistotal.png)
 The final dataframe for the Purchasing Analysis (Total) contains the following information:
 * Number of Unique Items
 * Average Purchase Price
 * Total Number of Purchases
 * Total Revenue
 
-## Gender Demographics
+## [Gender Demographics](HeroesOfPymoli/Images/gender_demograhics.png)
 The final dataframe for Gender Demographics contains:
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
 
 
-## Purchasing Analysis (Gender)
+## [Purchasing Analysis (Gender)](HeroesOfPymoli/Images/purchasing_analysis_gender.png)
 The final dataframe for Purchasing Analysis (Gender) contains:
 * Purchase Count
 * Average Purchase Price
 * Total Purchase Value
 * Average Purchase Total per Person
 
-## Age Demographics
+## [Age Demographics](HeroesOfPymoli/Images/age_demographics.png)
 The final dataframe for Age Demographics contains:
 * Purchase Count
 * Average Purchase Price
 * Total Purchase Value
 * Average Purchase Total per Person
 
-## Purchasing Analysis (Age)
+## [Purchasing Analysis (Age)](HeroesOfPymoli/Images/purchasing_analysis_age.png)
 The final dataframe for Purchasing Analysis (Age) contains:
 * Purchase Count
 * Average Purchase Price
 * Total Purchase Value
 * Average Purchase Total per Person
 
-## Top Spenders
+## [Top Spenders](HeroesOfPymoli/Images/top_spending.png)
 The final dataframe for Top Spenders contains:
 * SN
 * Purchase Count
 * Average Purchase Price
 * Total Purchase Value
 
-## Most Popular Items
+## [Most Popular Items](HeroesOfPymoli/Images/most_popular_items.png)
 The final dataframe for Most Popular Items contains:
 * Item ID
 * Item Name
@@ -65,7 +65,7 @@ The final dataframe for Most Popular Items contains:
 * Item Price
 * Total Purchase Value
 
-## Most Profitable Items
+## [Most Profitable Items](HeroesOfPymoli/Images/purchasing_analysis_age.png)
 The final dataframe for Most Profitable Items contains:
 * Item ID
 * Item Name
