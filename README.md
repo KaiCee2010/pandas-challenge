@@ -1,5 +1,9 @@
 # pandas-challenge
-This repository contains the files and folders for the panda-challenge homework. The repository contains a HeroesOfPymoli jupyter notebook and a Resources folder.  The Resources folder contains the purchase_data.csv.
+This repository contains the files and folders for the panda-challenge homework. The repository contains:
+* HeroesOfPymoli jupyter notebook 
+* [Heroes_Of_Pymoli_Observations.docx](HeroesOfPymoli/Heroes_Of_Pymoli_Observations.docx)
+* Resources folder that contains purchase_data.csv
+* Images folder that contains pngs 
 
 This jupyter notebook contains:
 * Player Count
@@ -16,8 +20,6 @@ This jupyter notebook contains:
  This dataframe contains the Total Players.  This dataframe was created by:
 * Saving the "SN" column unique count to a variable
 * Creating a dataframe using the variable
-
-
 
 ## [Purchasing Analysis (Total)](HeroesOfPymoli/Images/purchasinganalysistotal.png)
 The final dataframe for the Purchasing Analysis (Total) contains the following information:
