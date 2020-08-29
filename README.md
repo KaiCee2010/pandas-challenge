@@ -1,7 +1,8 @@
 # pandas-challenge
 This repository contains the files and folders for the panda-challenge homework. The repository contains:
 * HeroesOfPymoli jupyter notebook 
-* [Heroes_Of_Pymoli_Observations.docx](HeroesOfPymoli/Heroes_Of_Pymoli_Observations.docx)
+* Heroes_Of_Pymoli_Observations.docx
+* Heroes_Of_Pymoli_Observations.pdf
 * Resources folder that contains purchase_data.csv
 * Images folder that contains pngs 
 
